@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @awalmer ~ Auralee (Aura) Walmer
-- 👀 I’m interested in Data Science, Music, Physics of Sound, Machine Learning, Acoustic Ecology, and Art.
-- 🌱 I've been pursuing these interests via a few data science and machine learning courses with UCSD Extension!
+- 👋 Hi, I’m @awalmer ~ Aura (Auralee) Walmer
+- 👀 I’m interested in Data Science, Music, Sonification, Art, Information Design, Storytelling, Machine Learning, and Acoustic Ecology.
+- 🌱 I'm currently working as a research fellow with the Reynolds Journalism Institute, and as a data curator with the University of Michigan.
 - 📫 How to reach me ~ submit a contact form on my website, www.aurawalmer.com/connect
 
 <!---
