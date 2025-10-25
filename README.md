@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Music, Sonification, Art, Information Design, Storytelling, Journalism, Machine Learning, and Acoustic Ecology.
 - 🌱 I recently built [The Data Sonification Toolkit](https://www.sonificationkit.com/) through a fellowship with the Reynolds Journalism Institute. I'm currently working as data curator with the University of Michigan.
 - 💻 Website: https://aurawalmer.com/ + Visualization Portfolio: https://awalmer.github.io/vis/.
-- 📫 How to reach me ~ submit a contact form on my website, www.aurawalmer.com/contact.
+- 📫 How to reach me ~ submit a [contact form](https://aurawalmer.com/contact) on my website.
 
 <!---
 awalmer/awalmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
